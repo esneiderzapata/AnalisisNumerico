@@ -1,5 +1,2 @@
-# AnalisisNumerico
-Repositorio para el Proyecto de Análisis Numérico 
-
-# Esneider Zapata Arias
-Se realizaran los metodos vistos en clase
+# AnalisisNumerico, Esneider Zapata Arias
+Repositorio para el Proyecto de Análisis Numérico, se realizaran los metodos vistos en clase
